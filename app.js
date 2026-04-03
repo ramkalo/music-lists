@@ -2,20 +2,15 @@ let currentFile = '';
 let currentContent = '';
 
 async function fetchLists() {
-  const res = await fetch('lists/');
-  const text = await res.text();
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(text, 'text/html');
-  const links = doc.querySelectorAll('a[href$=".md"]');
-  
+  const res = await fetch('lists.json');
+  const names = await res.json();
   const container = document.getElementById('lists');
   
-  for (const link of links) {
-    const name = link.textContent.replace('.md', '');
+  for (const name of names) {
     const btn = document.createElement('button');
     btn.className = 'block w-full text-left px-4 py-3 bg-zinc-800 hover:bg-zinc-700 rounded transition';
     btn.textContent = name;
-    btn.onclick = () => openModal(`lists/${link.getAttribute('href').split('/').pop()}`);
+    btn.onclick = () => openModal(`lists/${name}.md`);
     container.appendChild(btn);
   }
 }
