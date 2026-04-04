@@ -1,4 +1,4 @@
-this is my personal list, includes big artists
+This is my personal list, includes big artists. In no particular order.
 
 | Artist                            | Album                            | Lump Genre                   | Split Genre                                     |
 | --------------------------------- | -------------------------------- | ---------------------------- | ----------------------------------------------- |
@@ -21,6 +21,9 @@ this is my personal list, includes big artists
 | The Devil Makes Three             | I'm A Stranger Here              | Acoustic-Indie-Folk          | Americana, Folk Rock, Singer-Songwriter         |
 | Dvorak                            | New World Symphony               | Classical-Baroque            | Classical, Romantic Era, Symphonic              |
 | Townes Van Zandt                  | Delta Mamma Blues                | Country                      | Country Blues, Outlaw Country, Folk Blues       |
+| Fred again..                      | ten days                         | EDM                          | Electronic, Synth-Pop, Progressive House        |
+| Hadean Lights                     | Eons                             | Electronic-Ambient-Cinematic | Electronic, Minimalism, Indie Rock              |
+| Hermanos Gutierrez                | Sonido Cosmico                   | Electronic-Ambient-Cinematic | Ambient Guitar Minimalism, Indie Rock           |
 | Daniel Deluxe                     | Corrupter                        | Electronic-Ambient-Cinematic | Experimental Electronic, Glitch, Ambient        |
 | Daniel Deluxe                     | Exile                            | Electronic-Ambient-Cinematic | Experimental Electronic, Ambient, IDM           |
 | E.S. Posthumus                    | Unearthed                        | Electronic-Ambient-Cinematic | Ambient, Cinematic, Orchestral Electronic       |
